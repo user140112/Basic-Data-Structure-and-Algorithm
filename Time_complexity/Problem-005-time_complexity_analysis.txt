@@ -1,0 +1,11 @@
+In this program , number of operation depend on input value n.
+
+input(n)        output
+--------        ------
+1                  1
+2                  8
+3                  27
+4                  64
+n                  n^3
+
+So, Time complexity of this program is O(n^3).

@@ -1,0 +1,12 @@
+In this program, number of operation depend on input value n.
+
+input(n)             output
+-------              ------
+1                       1
+2                       4
+3                       9
+4                       16
+5                       25
+n                       n^2
+
+so, Time complexity of our program is O(n^2).

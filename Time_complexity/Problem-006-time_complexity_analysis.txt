@@ -1,0 +1,6 @@
+In this program, Nested loop time complexity = O(n^2)
+                 Single loop time complexity = O(n)
+
+So, Total time complexity = O(n^2)+O(n)
+                          = O(n^2+n)
+                          = O(n^2)

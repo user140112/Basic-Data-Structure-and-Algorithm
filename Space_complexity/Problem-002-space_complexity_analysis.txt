@@ -1,0 +1,6 @@
+In this program, we have used one integer variable n and one integer array even[].
+If we try to find out even number between 0 to 100 then we need even[101] size array.
+If we try to find out even number between 0 to 1000 then we need even[1001] size array.
+
+So, required space depend on array size which is given by n.
+So, Space complexity of this program O(n).

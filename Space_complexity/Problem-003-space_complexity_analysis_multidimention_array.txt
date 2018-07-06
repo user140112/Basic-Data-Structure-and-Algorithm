@@ -1,0 +1,2 @@
+If we use two dimentional array such as arr[n][n],then space complexity is = n^2
+If we use three dimentional array such as arr[n][n][n],then space complexity is = n^3

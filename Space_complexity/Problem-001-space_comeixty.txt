@@ -1,0 +1,5 @@
+In this program, we have declared one variable which name is n.
+It take 4 Bytes in memory.
+If we change the value of n,it will take 4 Bytes memory.
+So, memory does not depend on input value of n.
+So, It is called that the Space complexity of this program is O(1).
